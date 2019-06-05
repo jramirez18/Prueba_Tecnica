@@ -1,0 +1,7 @@
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\bin\Debug\BLL.dll
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\bin\Debug\BLL.pdb
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\bin\Debug\DAL.dll
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\bin\Debug\DAL.pdb
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\obj\Debug\BLL.dll
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,8 @@
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\bin\Debug\UI.exe.config
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\bin\Debug\UI.exe
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\bin\Debug\UI.pdb
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\obj\Debug\UI.frmPalindromo.resources
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\obj\Debug\UI.exe
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\UI\obj\Debug\UI.pdb

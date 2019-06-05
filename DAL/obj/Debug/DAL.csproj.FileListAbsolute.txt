@@ -1,0 +1,5 @@
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\DAL\bin\Debug\DAL.dll.config
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\DAL\bin\Debug\DAL.dll
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\DAL\bin\Debug\DAL.pdb
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\DAL\obj\Debug\DAL.dll
+C:\Users\JR\Documents\BoxSync\Box Sync\Documents Sync\Projects\MVC\Prueba_Tecnica\DAL\obj\Debug\DAL.pdb
